@@ -80,3 +80,11 @@ public class MyClass {
         return -1;
     }
 }
+
+/*Stdin Inputs
+4
+DIGITAL
+LOGIC
+MICROPROCESSOR
+COMPUTER
+*/
