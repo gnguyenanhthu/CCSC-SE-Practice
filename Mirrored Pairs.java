@@ -33,3 +33,13 @@ public class MyClass {
       }
     }
 }
+/*Stdin Inputs
+Fr
+qp
+HH
+db
+CC
+SC
+  bd
+pq
+*/
