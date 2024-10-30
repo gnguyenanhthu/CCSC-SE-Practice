@@ -26,3 +26,26 @@ public class MyClass {
 567000
 9999
 */
+
+/*
+Use Recursion
+import java.util.Scanner;
+
+public class DigitSum {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        for (int i = 1; i <= n; i++) {
+            int input = sc.nextInt();
+            System.out.println(sumOfDigit(input));
+        }
+    }
+    private static int sumOfDigit(int n) {
+        n = Math.abs(n);
+        if (n < 10) {
+            return n;
+        }
+        return n % 10 + sumOfDigit(n / 10);
+    }
+}
+*/
