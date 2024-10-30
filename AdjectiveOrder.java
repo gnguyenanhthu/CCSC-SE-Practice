@@ -54,7 +54,7 @@ public class MyClass {
     }
 }
 
-*Stdin input
+/*Stdin inputs
 3
 big tall statue
 shiny big car
